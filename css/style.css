@@ -205,7 +205,7 @@ header {
 }
 .content-box a:hover {
   color: #000;
-  background: #fff;
+  background:#DEAEE1;
   transition: 0.5s all;
 }
 
