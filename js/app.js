@@ -89,18 +89,6 @@ $('.img-loaded').imagesLoaded()
     });
   });
 
-
-  var typed = new Typed(".element", {
-  strings: ["Aisha Soufan", "a Front-End Developer","a Back-End Developer"],
-  smartBackspace: true,
-   typeSpeed: 100,
-   backSpeed: 100,
-   loop: true,
-  loopCount: Infinity,
-  startDelay: 1000
-});
-
-
 $('a').smoothScroll({
 
   speed:2000,

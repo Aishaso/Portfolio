@@ -51,6 +51,9 @@ span.element{
   max-width: 600px;
   text-align: center;
 }
+.dropdown-menu .dropdown-item:hover {
+  background-color: #DEAEE1;
+}
 
 /* Preloader */
 .preloader{
@@ -121,6 +124,7 @@ nav .navbar-brand {
   font-size: 30px;
   color: #fff;
   transition: 0.5s all;
+  margin-bottom: 50px;
 }
 nav .navbar-nav li {
   margin-left: 15px;
@@ -162,6 +166,11 @@ nav.stickyadd .hamburger {
 nav *,
 header * {
   animation-delay: 0.5s;
+}
+.nav-item .dropdown{
+  color: #7d5c80;
+  font-size: 50px !important;
+
 }
 
 /* ---------- */
